@@ -1,0 +1,3 @@
+C:/CLionProjects/11.6.5_Tic_Tac_Toe_Analysis/cmake-build-debug/CMakeFiles/11_6_5_Tic_Tac_Toe_Analysis.dir
+C:/CLionProjects/11.6.5_Tic_Tac_Toe_Analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/11.6.5_Tic_Tac_Toe_Analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

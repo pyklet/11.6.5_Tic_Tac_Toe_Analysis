@@ -21,6 +21,7 @@ bool ValidString(std::string str, std::string dictionary, int length) {
     return true;
 }
 
+/*get the count of specified characters from the text*/
 int CharCounter(std::string text, char c){
     int count = 0;
     for (int i = 0; i < text.length(); ++i) {

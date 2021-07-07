@@ -125,7 +125,7 @@ int TicTacToeWinner(std::string gameField){
     if (crossWin > 0 && zeroWin > 0) return 0;
     if (zeroWin > 0 && crossCount > zeroCount) return 0;
     if (crossWin > 0 && zeroCount >= crossCount) return 0;
-    if (crossWin > 1 || zeroWin > 1) return 0;
+    if (crossWin > 0 && zeroWin > 0) return 0;
     if (zeroCount > crossCount) return 0;
 
     if (crossWin > 0) return 1;
